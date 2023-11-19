@@ -13,3 +13,5 @@
 2023-11-19 15:24:39 WARNING-Log warning message
 2023-11-19 15:24:39 ERROR-Log error message
 2023-11-19 15:24:39 WARNING-Log warning message
+2023-11-19 16:26:54 -INFO - Starting
+2023-11-19 16:27:31 -INFO - Starting
